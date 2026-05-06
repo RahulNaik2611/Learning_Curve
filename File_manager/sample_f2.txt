@@ -1,5 +1,1 @@
-good morning rahul cool
-have a nice daywe are using append "a" 
-because of this append word previous data not removed 
-we are using append "a" 
-because of this append word previous data not removed 
+with --> context Manger 
