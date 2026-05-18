@@ -1,4 +1,9 @@
 def binary_searching(arr, target):
+
+    """
+    Binary Search Algorithm time complexity:O(1)
+    Binary Search works by comparing the target with the middle element.
+    """
     low, high = 0, len(arr) - 1
 
     while low <= high:
